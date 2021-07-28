@@ -1,5 +1,5 @@
 
-## Implement a scanner for a simplified Python using Flex
+## Scanner for a simplified Python using Flex
 
 
 ### Syntactic categories recognized
